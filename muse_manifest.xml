@@ -1,0 +1,261 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hyunsoosh.in" resolutions="1x" timestamp="1471389181973">
+  <folder name="css">
+    <file name="site_global.css" crc="3858932928"/>
+    <file name="index.css" crc="349849631" ref="index"/>
+    <file name="iefonts_index.css" crc="204231668" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="smoothscroll.min.js" crc="3992250502" seo="true" mt="1463404908000"/>
+    <file name="tersus.css" crc="4134654515" seo="true" mt="1463401050000"/>
+    <file name="tersus.js" crc="130590978" seo="true" mt="1463403650000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index:index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index:index"/>
+    <file name="form-u37473.php" crc="3860605894" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="tablet>index:index"/>
+    <file name="form-u35291.php" crc="4271028518" ref="tablet>index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="tablet>index:index"/>
+    <file name="form-u40109.php" crc="135871409" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="250476822" ref="phone>index:index"/>
+    <file name="home-slide01.jpg" crc="235013943" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="home-slide02.jpg" crc="3785068461" seo="true" ref="phone>index"/>
+    <file name="home-slide03.jpg" crc="135422914" seo="true" ref="phone>index"/>
+    <file name="home-slide04.jpg" crc="150623248" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="pattern-stripes.png" crc="305496384" ref="phone>index:tablet>index:index"/>
+    <file name="u35515-grad.png" crc="169294665" ref="phone>index:tablet>index"/>
+    <file name="logo.png" crc="4121157914" seo="true" ref="phone>index"/>
+    <file name="close-wht.svg" crc="425790400" seo="true" ref="phone>index"/>
+    <file name="close-wht_poster_.png" crc="4249857904" ref="phone>index"/>
+    <file name="about-bg.jpg" crc="349972299" ref="phone>index:tablet>index"/>
+    <file name="about-icn-01.png" crc="3843853396" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="about-icn-02.png" crc="3852270767" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="about-icn-03.png" crc="4010684228" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="about-icn-04.png" crc="443496983" seo="true" ref="phone>index:tablet>index"/>
+    <file name="services-icn-01.png" crc="4120530194" seo="true" ref="phone>index:tablet>index"/>
+    <file name="services-icn-02.png" crc="515314717" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="services-icn-03.png" crc="4047061973" seo="true" ref="phone>index:tablet>index"/>
+    <file name="services-icn-04.png" crc="3766326570" seo="true" ref="phone>index:tablet>index"/>
+    <file name="services-icn-05.png" crc="3773447560" seo="true" ref="phone>index:tablet>index"/>
+    <file name="services-icn-06.png" crc="106050206" seo="true" ref="phone>index:tablet>index"/>
+    <file name="why-bg.jpg" crc="438467502" ref="phone>index:tablet>index:index"/>
+    <file name="u35636-grad.png" crc="500412470" ref="phone>index"/>
+    <file name="folio-img-01-crop-u37989.jpg" crc="4054381281" ref="phone>index"/>
+    <file name="folio-img-02-crop-u38001.jpg" crc="3990161960" ref="phone>index"/>
+    <file name="folio-img-03-crop-u37993.jpg" crc="5839403" ref="phone>index"/>
+    <file name="folio-img-04-crop-u38003.jpg" crc="378694887" ref="phone>index"/>
+    <file name="folio-img-05-crop-u37995.jpg" crc="106502337" ref="phone>index"/>
+    <file name="folio-img-06-crop-u37991.jpg" crc="72105287" ref="phone>index"/>
+    <file name="folio-img-07-crop-u37997.jpg" crc="3855303949" ref="phone>index"/>
+    <file name="folio-img-08-crop-u38005.jpg" crc="351502140" ref="phone>index"/>
+    <file name="folio-img-09-crop-u37999.jpg" crc="486057061" ref="phone>index"/>
+    <file name="folio-img-01300x225.jpg" crc="178792167" seo="true" ref="phone>index"/>
+    <file name="folio-img-02300x225.jpg" crc="3862336643" seo="true" ref="phone>index"/>
+    <file name="folio-img-03300x225.jpg" crc="411119773" seo="true" ref="phone>index"/>
+    <file name="folio-img-04300x225.jpg" crc="215301183" seo="true" ref="phone>index"/>
+    <file name="folio-img-05300x225.jpg" crc="3940031415" seo="true" ref="phone>index"/>
+    <file name="folio-img-06300x225.jpg" crc="95312669" seo="true" ref="phone>index"/>
+    <file name="folio-img-07300x225.jpg" crc="4292803333" seo="true" ref="phone>index"/>
+    <file name="folio-img-08300x225.jpg" crc="3854546608" seo="true" ref="phone>index"/>
+    <file name="folio-img-09300x225.jpg" crc="3802156805" seo="true" ref="phone>index"/>
+    <file name="folio-img-04-crop-u38115.jpg" crc="378694887" ref="phone>index"/>
+    <file name="folio-img-05-crop-u38123.jpg" crc="106502337" ref="phone>index"/>
+    <file name="folio-img-06-crop-u38125.jpg" crc="72105287" ref="phone>index"/>
+    <file name="folio-img-02-crop-u38113.jpg" crc="3990161960" ref="phone>index"/>
+    <file name="folio-img-07-crop-u38129.jpg" crc="3855303949" ref="phone>index"/>
+    <file name="folio-img-09-crop-u38121.jpg" crc="486057061" ref="phone>index"/>
+    <file name="folio-img-08-crop-u38127.jpg" crc="351502140" ref="phone>index"/>
+    <file name="folio-img-03-crop-u38117.jpg" crc="5839403" ref="phone>index"/>
+    <file name="folio-img-01-crop-u38119.jpg" crc="4054381281" ref="phone>index"/>
+    <file name="folio-img-09-crop-u37908.jpg" crc="486057061" ref="phone>index"/>
+    <file name="folio-img-08-crop-u37922.jpg" crc="351502140" ref="phone>index"/>
+    <file name="folio-img-07-crop-u37914.jpg" crc="3855303949" ref="phone>index"/>
+    <file name="folio-img-06-crop-u37916.jpg" crc="72105287" ref="phone>index"/>
+    <file name="folio-img-05-crop-u37920.jpg" crc="106502337" ref="phone>index"/>
+    <file name="folio-img-04-crop-u37912.jpg" crc="378694887" ref="phone>index"/>
+    <file name="folio-img-03-crop-u37910.jpg" crc="5839403" ref="phone>index"/>
+    <file name="folio-img-02-crop-u37924.jpg" crc="3990161960" ref="phone>index"/>
+    <file name="folio-img-01-crop-u37918.jpg" crc="4054381281" ref="phone>index"/>
+    <file name="testimonial-bg.jpg" crc="4212787780" ref="phone>index:tablet>index:index"/>
+    <file name="u36845-grad.png" crc="82478550" ref="phone>index"/>
+    <file name="client-logo01130x124.png" crc="34587097" seo="true" ref="phone>index"/>
+    <file name="client-logo03130x124.png" crc="3832906318" seo="true" ref="phone>index"/>
+    <file name="client-logo02130x124.png" crc="151173323" seo="true" ref="phone>index"/>
+    <file name="client-logo04130x124.png" crc="3803066731" seo="true" ref="phone>index"/>
+    <file name="client-logo05130x124.png" crc="3988015784" seo="true" ref="phone>index"/>
+    <file name="client-logo07.png" crc="4173257211" seo="true" ref="phone>index:tablet>index"/>
+    <file name="client-logo06130x124.png" crc="362732668" seo="true" ref="phone>index"/>
+    <file name="client-logo08130x124.png" crc="437187236" seo="true" ref="phone>index"/>
+    <file name="arrow-wht-left.svg" crc="3838450305" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="arrow-wht-left_poster_.png" crc="502418744" ref="phone>index:index"/>
+    <file name="arrow-wht-right.svg" crc="4010701101" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="arrow-wht-right_poster_.png" crc="4060567453" ref="phone>index:index"/>
+    <file name="team01-crop-u37191.jpg" crc="4282239628" ref="phone>index"/>
+    <file name="u37193-grad.png" crc="4273665662" ref="phone>index"/>
+    <file name="icn-scl-lnkdin.png" crc="4265644061" seo="true" ref="phone>index:tablet>index"/>
+    <file name="icn-scl-twtr.png" crc="510725140" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="icn-scl-fb.png" crc="338917328" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="icn-scl-gplus.png" crc="514441667" seo="true" ref="phone>index:tablet>index"/>
+    <file name="team02-crop-u37244.jpg" crc="3944595462" ref="phone>index"/>
+    <file name="team03-crop-u37303.jpg" crc="4070958587" ref="phone>index"/>
+    <file name="team04-crop-u37313.jpg" crc="121185444" ref="phone>index"/>
+    <file name="team05-crop-u37339.jpg" crc="3764024370" ref="phone>index"/>
+    <file name="team06-crop-u37351.jpg" crc="4188024848" ref="phone>index"/>
+    <file name="contact-bg.jpg" crc="4145425136" ref="phone>index:tablet>index:index"/>
+    <file name="contact-icn-add.png" crc="273835508" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="contact-icn-mail.png" crc="394445851" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="contact-icn-phone.png" crc="4109113572" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u37485-17.png" crc="3832058221" ref="phone>index"/>
+    <file name="u37485-17-r.png" crc="3826847948" ref="phone>index"/>
+    <file name="u37485-17-m.png" crc="354052380" ref="phone>index"/>
+    <file name="u37485-17-fs.png" crc="3832058221" ref="phone>index"/>
+    <file name="arrow-up.svg" crc="386994326" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="arrow-up_poster_.png" crc="442066095" ref="phone>index:index"/>
+    <file name="websitelogo.png" crc="3992621644" seo="true" ref="tablet>index:index"/>
+    <file name="029a0135-2.jpg" crc="4107410673" seo="true" ref="tablet>index:index"/>
+    <file name="plain plain.jpg" crc="514523722" seo="true" ref="tablet>index:index"/>
+    <file name="029a0574-2.jpg" crc="280029540" seo="true" ref="tablet>index:index"/>
+    <file name="u33459-grad.png" crc="237020199" ref="tablet>index"/>
+    <file name="folio-img-01-crop-u33979.jpg" crc="60054335" ref="tablet>index"/>
+    <file name="folio-img-02-crop-u33983.jpg" crc="483654168" ref="tablet>index"/>
+    <file name="folio-img-03-crop-u33971.jpg" crc="313862537" ref="tablet>index"/>
+    <file name="folio-img-09-crop-u33973.jpg" crc="4094764478" ref="tablet>index"/>
+    <file name="folio-img-04-crop-u33985.jpg" crc="465236831" ref="tablet>index"/>
+    <file name="folio-img-05-crop-u33981.jpg" crc="4245618175" ref="tablet>index"/>
+    <file name="folio-img-06-crop-u33975.jpg" crc="46215816" ref="tablet>index"/>
+    <file name="folio-img-07-crop-u33987.jpg" crc="3973560184" ref="tablet>index"/>
+    <file name="folio-img-08-crop-u33977.jpg" crc="474169008" ref="tablet>index"/>
+    <file name="folio-img-01.jpg" crc="67682208" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-02.jpg" crc="156128291" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-03.jpg" crc="3848229573" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-09.jpg" crc="4168018125" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-04.jpg" crc="23632105" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-05.jpg" crc="4047153727" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-06.jpg" crc="4142980026" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-07.jpg" crc="4029132514" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-08.jpg" crc="270637556" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-04-crop-u34083.jpg" crc="465236831" ref="tablet>index"/>
+    <file name="folio-img-05-crop-u34126.jpg" crc="4245618175" ref="tablet>index"/>
+    <file name="folio-img-06-crop-u34135.jpg" crc="46215816" ref="tablet>index"/>
+    <file name="folio-img-02-crop-u34153.jpg" crc="483654168" ref="tablet>index"/>
+    <file name="folio-img-07-crop-u34162.jpg" crc="3973560184" ref="tablet>index"/>
+    <file name="folio-img-09-crop-u34171.jpg" crc="4094764478" ref="tablet>index"/>
+    <file name="folio-img-08-crop-u34189.jpg" crc="474169008" ref="tablet>index"/>
+    <file name="folio-img-03-crop-u34198.jpg" crc="313862537" ref="tablet>index"/>
+    <file name="folio-img-01-crop-u34207.jpg" crc="60054335" ref="tablet>index"/>
+    <file name="folio-img-09-crop-u34266.jpg" crc="4094764478" ref="tablet>index"/>
+    <file name="folio-img-08-crop-u34435.jpg" crc="474169008" ref="tablet>index"/>
+    <file name="folio-img-07-crop-u34444.jpg" crc="3973560184" ref="tablet>index"/>
+    <file name="folio-img-06-crop-u34453.jpg" crc="46215816" ref="tablet>index"/>
+    <file name="folio-img-05-crop-u34462.jpg" crc="4245618175" ref="tablet>index"/>
+    <file name="folio-img-04-crop-u34471.jpg" crc="465236831" ref="tablet>index"/>
+    <file name="folio-img-03-crop-u34480.jpg" crc="313862537" ref="tablet>index"/>
+    <file name="folio-img-02-crop-u34489.jpg" crc="483654168" ref="tablet>index"/>
+    <file name="folio-img-01-crop-u34498.jpg" crc="60054335" ref="tablet>index"/>
+    <file name="client-logo01.png" crc="4045681195" seo="true" ref="tablet>index"/>
+    <file name="client-logo03.png" crc="135277570" seo="true" ref="tablet>index"/>
+    <file name="client-logo02.png" crc="156961599" seo="true" ref="tablet>index"/>
+    <file name="client-logo04.png" crc="3878635596" seo="true" ref="tablet>index"/>
+    <file name="client-logo05.png" crc="28946930" seo="true" ref="tablet>index"/>
+    <file name="client-logo06.png" crc="4021443100" seo="true" ref="tablet>index"/>
+    <file name="client-logo08.png" crc="3851189747" seo="true" ref="tablet>index"/>
+    <file name="team01.jpg" crc="240214145" seo="true" ref="tablet>index"/>
+    <file name="u35200-grad.png" crc="4077095744" ref="tablet>index"/>
+    <file name="u35212-a-grad.png" crc="440843942" ref="tablet>index"/>
+    <file name="team02.jpg" crc="410026476" seo="true" ref="tablet>index"/>
+    <file name="team03.jpg" crc="3855575546" seo="true" ref="tablet>index"/>
+    <file name="team04.jpg" crc="394236246" seo="true" ref="tablet>index"/>
+    <file name="team05.jpg" crc="10089029" seo="true" ref="tablet>index"/>
+    <file name="team06.jpg" crc="3976612763" seo="true" ref="tablet>index"/>
+    <file name="arrow-blk-left.svg" crc="390596772" seo="true" ref="tablet>index"/>
+    <file name="arrow-blk-left_poster_.png" crc="4186035850" ref="tablet>index"/>
+    <file name="arrow-blk-right.svg" crc="4190586651" seo="true" ref="tablet>index"/>
+    <file name="arrow-blk-right_poster_.png" crc="4029934403" ref="tablet>index"/>
+    <file name="u35302-17.png" crc="450189999" ref="tablet>index"/>
+    <file name="u35302-17-r.png" crc="4094378591" ref="tablet>index"/>
+    <file name="u35302-17-m.png" crc="4070639258" ref="tablet>index"/>
+    <file name="u35302-17-fs.png" crc="450189999" ref="tablet>index"/>
+    <file name="u28408-grad.png" crc="518905290" ref="index"/>
+    <file name="029a0645.jpg" crc="54071568" ref="index"/>
+    <file name="about icons.png" crc="241442041" seo="true" ref="index"/>
+    <file name="services-icn-07.png" crc="4058833291" seo="true" ref="index"/>
+    <file name="services-icn-09.png" crc="4024437316" seo="true" ref="index"/>
+    <file name="services-icn-08.png" crc="4035749486" seo="true" ref="index"/>
+    <file name="u28730-grad.png" crc="3875410486" ref="index"/>
+    <file name="folio-img-09-crop-u39514.jpg" crc="309263968" ref="index"/>
+    <file name="folio-img-04-crop-u39656.jpg" crc="415874678" ref="index"/>
+    <file name="folio-img-05-crop-u39666.jpg" crc="4144376686" ref="index"/>
+    <file name="folio-img-06-crop-u39654.jpg" crc="3912005784" ref="index"/>
+    <file name="folio-img-02-crop-u39664.jpg" crc="3924368283" ref="index"/>
+    <file name="folio-img-07-crop-u39670.jpg" crc="4206620908" ref="index"/>
+    <file name="folio-img-09-crop-u39660.jpg" crc="309263968" ref="index"/>
+    <file name="folio-img-08-crop-u39658.jpg" crc="4292775041" ref="index"/>
+    <file name="folio-img-03-crop-u39662.jpg" crc="4090895975" ref="index"/>
+    <file name="folio-img-01-crop-u39668.jpg" crc="4135237039" ref="index"/>
+    <file name="folio-img-09-crop-u39607.jpg" crc="309263968" ref="index"/>
+    <file name="folio-img-08-crop-u39591.jpg" crc="4292775041" ref="index"/>
+    <file name="folio-img-07-crop-u39605.jpg" crc="4206620908" ref="index"/>
+    <file name="folio-img-06-crop-u39599.jpg" crc="3912005784" ref="index"/>
+    <file name="folio-img-05-crop-u39601.jpg" crc="4144376686" ref="index"/>
+    <file name="folio-img-04-crop-u39593.jpg" crc="415874678" ref="index"/>
+    <file name="folio-img-03-crop-u39603.jpg" crc="4090895975" ref="index"/>
+    <file name="folio-img-02-crop-u39597.jpg" crc="3924368283" ref="index"/>
+    <file name="folio-img-01-crop-u39595.jpg" crc="4135237039" ref="index"/>
+    <file name="u40110-17.png" crc="4118516256" ref="index"/>
+    <file name="u40110-17-r.png" crc="337749350" ref="index"/>
+    <file name="u40110-17-m.png" crc="4037119860" ref="index"/>
+    <file name="u40110-17-fs.png" crc="4118516256" ref="index"/>
+    <file name="icn-scl-inst.png" crc="4008180458" seo="true" ref="index"/>
+    <file name="icn-scl-yout.png" crc="236182999" seo="true" ref="index"/>
+    <file name="029a0134-2-crop-u46909.jpg" crc="3946828416" ref="index"/>
+    <file name="029a0619-crop-u46978.jpg" crc="3793058632" ref="index"/>
+    <file name="029a0635-crop-u46998.jpg" crc="3978289198" ref="index"/>
+    <file name="029a0960-crop-u47018.jpg" crc="239276542" ref="index"/>
+    <file name="029a0977-crop-u47038.jpg" crc="174283200" ref="index"/>
+    <file name="img_8839-crop-u47058.jpg" crc="18416219" ref="index"/>
+    <file name="img_9194-crop-u47078.jpg" crc="259346376" ref="index"/>
+    <file name="img_9262-crop-u47098.jpg" crc="4077112420" ref="index"/>
+    <file name="029a0134-2.jpg" crc="3995023767" seo="true" ref="index"/>
+    <file name="029a0619.jpg" crc="3855262952" seo="true" ref="index"/>
+    <file name="029a0635.jpg" crc="4133573173" seo="true" ref="index"/>
+    <file name="029a0960.jpg" crc="4053598600" seo="true" ref="index"/>
+    <file name="029a0977.jpg" crc="163279811" seo="true" ref="index"/>
+    <file name="img_8839.jpg" crc="4058625473" seo="true" ref="index"/>
+    <file name="img_9194.jpg" crc="9157571" seo="true" ref="index"/>
+    <file name="img_9262.jpg" crc="3883462130" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4291716577" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="263527087" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4292900362" seo="true" mt="1471064290522" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4006959243" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3968663002" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="279916690" seo="true" mt="1470778776751" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="440681853" seo="true" mt="1471388758166" redirect="true"/>
+</manifest>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hyunsoosh.in" resolutions="1x" timestamp="1471389181973">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hyunsoosh.in" resolutions="1x" timestamp="1471394768852">
   <folder name="css">
     <file name="site_global.css" crc="3858932928"/>
-    <file name="index.css" crc="349849631" ref="index"/>
-    <file name="iefonts_index.css" crc="204231668" ref="index"/>
+    <file name="index.css" crc="139521870" ref="index"/>
+    <file name="iefonts_index.css" crc="3759054893" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="smoothscroll.min.js" crc="3992250502" seo="true" mt="1463404908000"/>
@@ -144,15 +144,15 @@
     <file name="folio-img-06-crop-u33975.jpg" crc="46215816" ref="tablet>index"/>
     <file name="folio-img-07-crop-u33987.jpg" crc="3973560184" ref="tablet>index"/>
     <file name="folio-img-08-crop-u33977.jpg" crc="474169008" ref="tablet>index"/>
-    <file name="folio-img-01.jpg" crc="67682208" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-02.jpg" crc="156128291" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-03.jpg" crc="3848229573" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-09.jpg" crc="4168018125" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-04.jpg" crc="23632105" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-05.jpg" crc="4047153727" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-06.jpg" crc="4142980026" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-07.jpg" crc="4029132514" seo="true" ref="tablet>index:index"/>
-    <file name="folio-img-08.jpg" crc="270637556" seo="true" ref="tablet>index:index"/>
+    <file name="folio-img-01.jpg" crc="67682208" seo="true" ref="tablet>index"/>
+    <file name="folio-img-02.jpg" crc="156128291" seo="true" ref="tablet>index"/>
+    <file name="folio-img-03.jpg" crc="3848229573" seo="true" ref="tablet>index"/>
+    <file name="folio-img-09.jpg" crc="4168018125" seo="true" ref="tablet>index"/>
+    <file name="folio-img-04.jpg" crc="23632105" seo="true" ref="tablet>index"/>
+    <file name="folio-img-05.jpg" crc="4047153727" seo="true" ref="tablet>index"/>
+    <file name="folio-img-06.jpg" crc="4142980026" seo="true" ref="tablet>index"/>
+    <file name="folio-img-07.jpg" crc="4029132514" seo="true" ref="tablet>index"/>
+    <file name="folio-img-08.jpg" crc="270637556" seo="true" ref="tablet>index"/>
     <file name="folio-img-04-crop-u34083.jpg" crc="465236831" ref="tablet>index"/>
     <file name="folio-img-05-crop-u34126.jpg" crc="4245618175" ref="tablet>index"/>
     <file name="folio-img-06-crop-u34135.jpg" crc="46215816" ref="tablet>index"/>
@@ -201,25 +201,6 @@
     <file name="services-icn-09.png" crc="4024437316" seo="true" ref="index"/>
     <file name="services-icn-08.png" crc="4035749486" seo="true" ref="index"/>
     <file name="u28730-grad.png" crc="3875410486" ref="index"/>
-    <file name="folio-img-09-crop-u39514.jpg" crc="309263968" ref="index"/>
-    <file name="folio-img-04-crop-u39656.jpg" crc="415874678" ref="index"/>
-    <file name="folio-img-05-crop-u39666.jpg" crc="4144376686" ref="index"/>
-    <file name="folio-img-06-crop-u39654.jpg" crc="3912005784" ref="index"/>
-    <file name="folio-img-02-crop-u39664.jpg" crc="3924368283" ref="index"/>
-    <file name="folio-img-07-crop-u39670.jpg" crc="4206620908" ref="index"/>
-    <file name="folio-img-09-crop-u39660.jpg" crc="309263968" ref="index"/>
-    <file name="folio-img-08-crop-u39658.jpg" crc="4292775041" ref="index"/>
-    <file name="folio-img-03-crop-u39662.jpg" crc="4090895975" ref="index"/>
-    <file name="folio-img-01-crop-u39668.jpg" crc="4135237039" ref="index"/>
-    <file name="folio-img-09-crop-u39607.jpg" crc="309263968" ref="index"/>
-    <file name="folio-img-08-crop-u39591.jpg" crc="4292775041" ref="index"/>
-    <file name="folio-img-07-crop-u39605.jpg" crc="4206620908" ref="index"/>
-    <file name="folio-img-06-crop-u39599.jpg" crc="3912005784" ref="index"/>
-    <file name="folio-img-05-crop-u39601.jpg" crc="4144376686" ref="index"/>
-    <file name="folio-img-04-crop-u39593.jpg" crc="415874678" ref="index"/>
-    <file name="folio-img-03-crop-u39603.jpg" crc="4090895975" ref="index"/>
-    <file name="folio-img-02-crop-u39597.jpg" crc="3924368283" ref="index"/>
-    <file name="folio-img-01-crop-u39595.jpg" crc="4135237039" ref="index"/>
     <file name="u40110-17.png" crc="4118516256" ref="index"/>
     <file name="u40110-17-r.png" crc="337749350" ref="index"/>
     <file name="u40110-17-m.png" crc="4037119860" ref="index"/>
@@ -232,7 +213,6 @@
     <file name="029a0960-crop-u47018.jpg" crc="239276542" ref="index"/>
     <file name="029a0977-crop-u47038.jpg" crc="174283200" ref="index"/>
     <file name="img_8839-crop-u47058.jpg" crc="18416219" ref="index"/>
-    <file name="img_9194-crop-u47078.jpg" crc="259346376" ref="index"/>
     <file name="img_9262-crop-u47098.jpg" crc="4077112420" ref="index"/>
     <file name="029a0134-2.jpg" crc="3995023767" seo="true" ref="index"/>
     <file name="029a0619.jpg" crc="3855262952" seo="true" ref="index"/>
@@ -240,8 +220,47 @@
     <file name="029a0960.jpg" crc="4053598600" seo="true" ref="index"/>
     <file name="029a0977.jpg" crc="163279811" seo="true" ref="index"/>
     <file name="img_8839.jpg" crc="4058625473" seo="true" ref="index"/>
-    <file name="img_9194.jpg" crc="9157571" seo="true" ref="index"/>
     <file name="img_9262.jpg" crc="3883462130" seo="true" ref="index"/>
+    <file name="029a0914-crop-u47857.jpg" crc="4161500842" ref="index"/>
+    <file name="029a0433-crop-u47337.jpg" crc="25782127" ref="index"/>
+    <file name="029a0914.jpg" crc="84060198" seo="true" ref="index"/>
+    <file name="029a0433.jpg" crc="3888482792" seo="true" ref="index"/>
+    <file name="029a0255-crop-u47608.jpg" crc="4149253484" ref="index"/>
+    <file name="029a0546-crop-u47628.jpg" crc="414805002" ref="index"/>
+    <file name="celebrate love-crop-u47648.jpg" crc="223737210" ref="index"/>
+    <file name="wet mornings lol-crop-u47668.jpg" crc="4270991760" ref="index"/>
+    <file name="029a0673-crop-u47723.jpg" crc="4259561764" ref="index"/>
+    <file name="029a0726-crop-u47743.jpg" crc="4060301282" ref="index"/>
+    <file name="029a0785-crop-u47763.jpg" crc="368499252" ref="index"/>
+    <file name="029a0907-crop-u47783.jpg" crc="151887734" ref="index"/>
+    <file name="029a0649-crop-u47830.jpg" crc="177201806" ref="index"/>
+    <file name="029a0255.jpg" crc="4267055444" seo="true" ref="index"/>
+    <file name="029a0546.jpg" crc="3941006574" seo="true" ref="index"/>
+    <file name="celebrate love.jpg" crc="4010792467" seo="true" ref="index"/>
+    <file name="wet mornings lol.jpg" crc="3902458959" seo="true" ref="index"/>
+    <file name="029a0673.jpg" crc="114027097" seo="true" ref="index"/>
+    <file name="029a0726.jpg" crc="507236030" seo="true" ref="index"/>
+    <file name="029a0785.jpg" crc="484725543" seo="true" ref="index"/>
+    <file name="029a0907.jpg" crc="402692553" seo="true" ref="index"/>
+    <file name="029a0649.jpg" crc="301567708" seo="true" ref="index"/>
+    <file name="029a1047-crop-u47905.jpg" crc="408015263" ref="index"/>
+    <file name="029a1138-crop-u47925.jpg" crc="3839889439" ref="index"/>
+    <file name="img_9115-crop-u47945.jpg" crc="165127719" ref="index"/>
+    <file name="img_9933-crop-u47965.jpg" crc="4161910471" ref="index"/>
+    <file name="img_8620-crop-u48006.jpg" crc="4270539523" ref="index"/>
+    <file name="img_8629-crop-u48026.jpg" crc="416345497" ref="index"/>
+    <file name="img_8642-crop-u48046.jpg" crc="312680997" ref="index"/>
+    <file name="img_3522-crop-u48073.jpg" crc="4170375487" ref="index"/>
+    <file name="029a1139-crop-u48100.jpg" crc="3941195404" ref="index"/>
+    <file name="029a1047.jpg" crc="4139425222" seo="true" ref="index"/>
+    <file name="029a1138.jpg" crc="4060051238" seo="true" ref="index"/>
+    <file name="img_9115.jpg" crc="423521740" seo="true" ref="index"/>
+    <file name="img_9933.jpg" crc="206195804" seo="true" ref="index"/>
+    <file name="img_8620.jpg" crc="334682654" seo="true" ref="index"/>
+    <file name="img_8629.jpg" crc="4128440141" seo="true" ref="index"/>
+    <file name="img_8642.jpg" crc="530678243" seo="true" ref="index"/>
+    <file name="img_3522.jpg" crc="4199182606" seo="true" ref="index"/>
+    <file name="029a1139.jpg" crc="3780021891" seo="true" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -257,5 +276,5 @@
     </folder>
     <file name="index.html" crc="279916690" seo="true" mt="1470778776751" redirect="true"/>
   </folder>
-  <file name="index.html" crc="440681853" seo="true" mt="1471388758166" redirect="true"/>
+  <file name="index.html" crc="341029512" seo="true" mt="1471394732184" redirect="true"/>
 </manifest>

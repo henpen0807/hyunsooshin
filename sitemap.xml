@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hyunsoosh.in/index.html</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyunsoosh.in/phone/index.html"/>
@@ -21,308 +21,236 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/home-slide01.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/home-slide02.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/home-slide03.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/home-slide04.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/logo.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://hyunsoosh.in/images/close-wht.svg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/about-icn-01.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/about-icn-02.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/about-icn-03.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/about-icn-04.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-01.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/services-icn-02.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-03.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-04.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-05.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-06.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-01300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-02300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-03300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-04300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-05300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-06300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-07300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-08300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-09300x225.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo01130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo03130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo02130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo04130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo05130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo07.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo06130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo08130x124.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/arrow-wht-left.svg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/arrow-wht-right.svg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/icn-scl-lnkdin.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/icn-scl-twtr.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/icn-scl-fb.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/icn-scl-gplus.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/contact-icn-add.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/contact-icn-mail.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/contact-icn-phone.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/arrow-up.svg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/websitelogo.png</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/029a0135-2.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/plain%20plain.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/029a0574-2.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-01.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <loc>http://hyunsoosh.in/images/about%20icons.png</loc>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-02.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <loc>http://hyunsoosh.in/images/services-icn-07.png</loc>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-03.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <loc>http://hyunsoosh.in/images/services-icn-09.png</loc>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-09.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <loc>http://hyunsoosh.in/images/services-icn-08.png</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/icn-scl-inst.png</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/icn-scl-yout.png</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0134-2.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0619.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0635.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0960.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0977.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_8839.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_9262.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0914.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0433.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0255.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0546.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/celebrate%20love.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/wet%20mornings%20lol.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0673.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0726.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0785.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -333,320 +261,248 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-05.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-06.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-07.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/folio-img-08.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo01.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo03.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo02.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo04.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo05.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo06.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/client-logo08.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team01.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team02.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team03.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team04.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team05.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/team06.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/arrow-blk-left.svg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/arrow-blk-right.svg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/about%20icons.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-07.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-09.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/services-icn-08.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/icn-scl-inst.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/icn-scl-yout.png</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0134-2.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0619.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0635.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0960.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0977.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/img_8839.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/img_9262.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0914.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0433.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0255.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0546.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/celebrate%20love.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/wet%20mornings%20lol.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0673.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0726.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0785.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyunsoosh.in/images/029a0907.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://hyunsoosh.in/images/029a0649.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/029a1047.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/029a1138.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_9115.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_9933.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_8620.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_8629.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_8642.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/img_3522.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyunsoosh.in/images/029a1139.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyunsoosh.in/images/folio-img-04.jpg</loc>
-    <lastmod>2016-08-16</lastmod>
+    <loc>http://hyunsoosh.in/images/029a0134-2300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0619300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0635300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0960300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0977300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_8839300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0914300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_9262300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0433300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0255300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0546300x163.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/celebrate%20love300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/wet%20mornings%20lol300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0673300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0726300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0785300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0907300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0649300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a1047300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a1138300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_9115300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_9933300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_8620300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_8629300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_8642300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/img_3522300x225.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a1139300x200.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0135-22.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/plain%20plain2.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0574-22.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyunsoosh.in/images/029a0907.jpg</loc>
+    <lastmod>2016-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

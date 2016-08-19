@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hyunsoosh.in" resolutions="1x" timestamp="1471501303597">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hyunsoosh.in" resolutions="1x" timestamp="1471622125558">
   <folder name="css">
     <file name="site_global.css" crc="3858932928"/>
-    <file name="index.css" crc="4212298090" ref="index"/>
+    <file name="index.css" crc="252515019" ref="index"/>
     <file name="iefonts_index.css" crc="396386986" ref="index"/>
   </folder>
   <folder name="assets">
@@ -37,7 +37,7 @@
     <file name="favicon.ico" crc="250476822" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
-    <file name="pattern-stripes.png" crc="305496384" ref="tablet>index:index"/>
+    <file name="pattern-stripes.png" crc="305496384" ref="tablet>index:index:phone>index"/>
     <file name="close-wht.svg" crc="425790400" seo="true" ref="phone>index"/>
     <file name="close-wht_poster_.png" crc="4249857904" ref="phone>index"/>
     <file name="about-icn-01.png" crc="3843853396" seo="true" ref="phone>index:tablet>index:index"/>
@@ -49,9 +49,9 @@
     <file name="testimonial-bg.jpg" crc="4212787780" ref="phone>index:tablet>index:index"/>
     <file name="u36845-grad.png" crc="82478550" ref="phone>index"/>
     <file name="arrow-wht-left.svg" crc="3838450305" seo="true" ref="tablet>index:index"/>
-    <file name="arrow-wht-left_poster_.png" crc="502418744" ref="tablet>index"/>
+    <file name="arrow-wht-left_poster_.png" crc="502418744" ref="tablet>index:index"/>
     <file name="arrow-wht-right.svg" crc="4010701101" seo="true" ref="tablet>index:index"/>
-    <file name="arrow-wht-right_poster_.png" crc="4060567453" ref="tablet>index"/>
+    <file name="arrow-wht-right_poster_.png" crc="4060567453" ref="tablet>index:index"/>
     <file name="icn-scl-twtr.png" crc="510725140" seo="true" ref="phone>index:tablet>index:index"/>
     <file name="icn-scl-fb.png" crc="338917328" seo="true" ref="phone>index:tablet>index:index"/>
     <file name="contact-bg.jpg" crc="4145425136" ref="phone>index:tablet>index:index"/>
@@ -226,6 +226,7 @@
     <file name="img_8642-crop-u50935.jpg" crc="312680997" ref="tablet>index"/>
     <file name="img_3522-crop-u50945.jpg" crc="4170375487" ref="tablet>index"/>
     <file name="029a1139-crop-u50929.jpg" crc="3941195404" ref="tablet>index"/>
+    <file name="u35515-grad.png" crc="169294665" ref="phone>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -236,10 +237,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="226703398" ref="phone>index"/>
+      <file name="index.css" crc="3978979668" ref="phone>index"/>
       <file name="iefonts_index.css" crc="315310253" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4030161096" seo="true" mt="1471501213841" redirect="true"/>
+    <file name="index.html" crc="254306138" seo="true" mt="1471622101570" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4150526716" seo="true" mt="1471484492549" redirect="true"/>
+  <file name="index.html" crc="353936560" seo="true" mt="1471622045554" redirect="true"/>
 </manifest>
